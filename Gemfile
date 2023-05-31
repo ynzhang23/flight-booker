@@ -3,6 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.1.2"
 
+# Debugging
+gem 'pry-byebug'
+
 # Use bootstrap as CSS library
 gem 'bootstrap', '~> 5.0.2'
 
