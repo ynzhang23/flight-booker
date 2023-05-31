@@ -6,3 +6,4 @@ This project is created to experiment with:
 2. Active Record Callbacks
 3. Bootstrap Framework
 4. Rails Database Seeding
+5. [Simple Form](https://github.com/heartcombo/simple_form)
